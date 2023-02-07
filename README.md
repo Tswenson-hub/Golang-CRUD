@@ -1,1 +1,3 @@
 "# Golang-CRUD" 
+
+This is a simple CRUD application that will handle Requests using the Mux/Gorilla Golang library. The premise is this is the basic logic that would be necessary to query, create, delete, and update existing records. While this example only services requests that live in the source code itself, a database conneciton string could be substituted in order to fulfill production needs. 
